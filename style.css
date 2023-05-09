@@ -1,0 +1,14 @@
+body
+{
+    background-size:cover;
+    background-position:center;
+}
+#popup{
+
+    font-size:60px;
+    background-color:white;
+
+}
+#footer{
+    width:100%;
+}
